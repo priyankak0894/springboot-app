@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-MysqltestingApplication<mysqltesting>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.db.mysqltesting.MysqltestingApplication",
+      "projectName": "mysqltesting",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
